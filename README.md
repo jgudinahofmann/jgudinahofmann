@@ -8,7 +8,7 @@ Senior Technical Product Manager (AI) working on CRM personalization systems —
 - **GenAI content systems:** scalable prompt + dataset iteration workflows, quality and safety requirements  
 - **Responsible AI / governance:** intake, privacy/compliance readiness, and launch rigor
 
-## Highlights (public-safe)
+## Highlights 
 - Led experimentation standards and A/B testing roadmap for multiple AI initiatives
 - Built repeatable processes that improve decision velocity and reduce deployment risk
 - Shipped AI-driven personalization capabilities across multiple CRM surfaces
